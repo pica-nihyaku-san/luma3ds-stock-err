@@ -26,7 +26,7 @@ Luma 独自のエラー画面 (ARM11 例外ダンプ画面、Rosalina の ErrDis
 
 - **full**: 純正化パッチを全適用した版。カセット抜き・CPU 例外・ERRF throw の表示が純正通りになります。
 - **ntr**: PM の変更だけを外した版 (理由は後述)。BootNTRSelector / NTR (ntrviewer 等) を使う場合はこちら。
-- リポジトリ直下の `boot.firm` は **13.5 full** と同一です。
+- リポジトリ直下の `boot.firm` は **13.5 ntr (★迷ったらこれ)** と同一です。迷ったらこれをそのまま SD に入れてください。
 
 ### ファイル対応表
 
